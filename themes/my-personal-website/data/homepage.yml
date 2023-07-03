@@ -53,9 +53,9 @@ about:
   content: '<p class="lead">
     I was born and raised in Guwahati, a city in Northeast India, where my passion for 
     science and technology was ignited. I pursued my bachelors degree in Electrical Engineering 
-    at the Indian Institute of Technology, Hyderabad. Subsequently, I embarked on a Ph.D. 
-    journey at New York University in the same field, specializing in Robotics and Control, 
-    with a focus on Robot Perception.
+    and Computer Science and Technology at the Indian Institute of Technology, Hyderabad. 
+    Subsequently, I embarked on a Ph.D. journey at New York University in the same field, 
+    specializing in Robotics and Control, with a focus on Robot Perception.
     </p>
     <p class="lead">
     Beyond academia, I have a profound love for playing the guitar. Staying active is 
@@ -84,7 +84,7 @@ education:
 
     - university: "Indian Institute of Technology (IIT), Hyderabad"
       year: "2017-2021"
-      degree: "Bachelor of Technology, Electrical Engineering"
+      degree: "Bachelor of Technology, Electrical Engineering and Computer Science and Technology"
 
     - university: "Fculty Higher Secondary School, Guwahati"
       year: "2017"
