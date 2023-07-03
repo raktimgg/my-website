@@ -128,7 +128,7 @@ experience2:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "https://drive.google.com/file/d/1VBmvMAYCZx2fIRw49L15xCueTV68SZMy/view?usp=sharing"
 
   items:
     - title: "Intern as Software Developer"
