@@ -1,0 +1,267 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Raktim."
+  subtitle: "Ph.D. Candidate at NYU"
+  description: "I am currently pursuing my Ph.D. at <a target='_blank' href='https://www.nyu.edu'>New York University's</a> Control/Robotics Research Lab."
+  image:
+    x: "img/showcase/photo2.jpg"
+    _2x: "img/showcase/photo2.jpg"
+  imageMobile:
+    x: "img/showcase/photo2.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:raktimggoswami@gmail.com"
+
+  socialLinks:
+    - icon: "github"
+      URL: "https://github.com/raktimgg"
+
+    # - icon: "twitter"
+    #   URL: "https://twitter.com/radity"
+
+    # - icon: "dribbble"
+    #   URL: "https://dribbble.com/radity"
+
+    # - icon: "behance"
+    #   URL: "https://www.behance.net/radity-digital"
+
+    # - icon: "youtube"
+    #   URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/_raktim/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/raktim.goswami1"
+
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/raktim-gautam-goswami-4ab8b0151/"
+
+    # - icon: "codepen"
+    #   URL: "#"
+
+    # - icon: "yelp"
+    #   URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "About me"
+  content: '<p class="lead">
+    I was born and raised in Guwahati, a city in Northeast India, where my passion for 
+    science and technology was ignited. I pursued my bachelors degree in Electrical Engineering 
+    at the Indian Institute of Technology, Hyderabad. Subsequently, I embarked on a Ph.D. 
+    journey at New York University in the same field, specializing in Robotics and Control, 
+    with a focus on Robot Perception.
+    </p>
+    <p class="lead">
+    Beyond academia, I have a profound love for playing the guitar. Staying active is 
+    important to me, so I enjoy working out regularly. Gaming and traveling are also among my 
+    interests. In my downtime, I am an enthusiastic viewer of movies and TV shows, with particular 
+    admiration for titles like Game of Thrones, Peaky Blinders, and The Boys. When I am not 
+    engrossed in my activities, you might find me socializing with friends. I typically frequent 
+    places in Park Slope, Greenwich Village, midtown Manhattan, and Williamsburg.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Connect on linkedin"
+    URL: "https://www.linkedin.com/in/raktim-gautam-goswami-4ab8b0151/"
+  image:
+    x: "img/who-am-i/photo1.jpg"
+    _2x: "img/who-am-i/photo1.jpg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "New York University, Tandon School of Engineering"
+      year: "2021-Present"
+      degree: "Ph.D. in Electrical Engineering"
+
+    - university: "Indian Institute of Technology (IIT), Hyderabad"
+      year: "2017-2021"
+      degree: "Bachelor of Technology, Electrical Engineering"
+
+    - university: "Fculty Higher Secondary School, Guwahati"
+      year: "2017"
+      degree: "All India Secondary School Certificate Examination (CBSE:Class XII)"
+
+# experience
+experience:
+  enable: true
+  title: "Publications"
+  description: "Throughout my journey, I have contributed to the academic community by publishing a few papers in esteemed conferences and journals. I continually strive to expand and enhance my collection with each passing year."
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Google Scholar"
+    URL: "https://scholar.google.com/citations?user=kgwEhXq2XxMC&hl=en&oi=ao"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "#"
+
+  items:
+    - title: "Data-Driven Deep Learning Based Feedback Linearization of Systems with Unknown Dynamics"
+      company: "RG Goswami, P Krishnamurthy, F Khorrami"
+      duration: "American Control Conference (May 2023)"
+
+    - title: "Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM"
+      company: "RG Goswami, PV Amith, J Hari, A Dhaygude, P Krishnamurthy, J Rizzo, A Tzes, F Khorrami"
+      duration: "International Conference on Automation, Robotics and Applications (Feb 2023)"
+
+    - title: "Phase Aware Speech Enhancement using Realisation of Complex-valued LSTM"
+      company: "RG Goswami, S Andhavarapu, K Murty"
+      duration: "arXiv (2020)"
+
+experience2:
+  enable: true
+  title: "Other experience"
+  # description: "Throughout my journey, I have contributed to the academic community by publishing a few papers in esteemed conferences and journals. I continually strive to expand and enhance my collection with each passing year."
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/raktim-gautam-goswami-4ab8b0151/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Intern as Software Developer"
+      company: "Honeywell Connected Enterprise"
+      duration: "June 2020 - July 2020"
+
+
+    - title: "Intern as AI/Robotics Engineer"
+      company: "Crystalball"
+      duration: "Nov 2018 - Feb 2019"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# # contact
+# contact:
+#   enable: true
+#   title: "Contact"
+#   form:
+#     action: "#"
+#     full_name: "Full Name"
+#     email: "Email Address"
+#     message: "Type Your Message Here"
+#   # phone:
+#   #   title: "Phone Number"
+#   #   number: "+41 (44) 505 10 99"
+#   # email:
+#   #   title: "Email"
+#   #   email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+#   # address:
+#   #   title: "Address"
+#   #   address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+#   button:
+#     icon: "icon-mail-fill"
+#     btnText: "Send Message"
+
+# newsletter
+# newsletter:
+#   enable: true
+#   title: "Newsletter subscription"
+#   success_message: "Successfully subscribed"
+#   error_message: "Error while subscribing."
+#   note: "We'll never share your email with anyone else."
