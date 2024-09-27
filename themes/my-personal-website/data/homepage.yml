@@ -105,16 +105,28 @@ experience:
   #   URL: "#"
 
   items:
+    - title: "FlashMix: Fast Map-Free LiDAR Localization via Feature Mixing and Contrastive-Constrained Accelerated Training"
+      company: "R. G. Goswami, N. Patel, P Krishnamurthy, F Khorrami"
+      duration: "IEEE/CVF Winter Conference on Applications of Computer Vision - WACV (To Appear in February 2025)"
+      
+    - title: "SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition"
+      company: "R. G. Goswami, N.Patel, P Krishnamurthy, F Khorrami"
+      duration: "IEEE Robotics and Automation Letters (August 2024)"
+      
+    - title: "Floor Plan Based Active Global Localization and Navigation Aid for Persons with Blindness and Low Visions"
+      company: "R. G. Goswami, P. V. Amith, J. Hari,  H. Sinha,  P. Krishnamurthy,  J. Rizzo,  F. Khorrami"
+      duration: "IEEE Robotics and Automation Letters (October 2024)"
+    
     - title: "Data-Driven Deep Learning Based Feedback Linearization of Systems with Unknown Dynamics"
-      company: "RG Goswami, P Krishnamurthy, F Khorrami"
-      duration: "American Control Conference (May 2023)"
+      company: "R. G. Goswami, P Krishnamurthy, F Khorrami"
+      duration: "IEEE American Control Conference (May 2023)"
 
     - title: "Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM"
-      company: "RG Goswami, PV Amith, J Hari, A Dhaygude, P Krishnamurthy, J Rizzo, A Tzes, F Khorrami"
-      duration: "International Conference on Automation, Robotics and Applications (Feb 2023)"
+      company: "R. G. Goswami, PV Amith, J Hari, A Dhaygude, P Krishnamurthy, J Rizzo, A Tzes, F Khorrami"
+      duration: "IEEE International Conference on Automation, Robotics and Applications (Feb 2023)"
 
     - title: "Phase Aware Speech Enhancement using Realisation of Complex-valued LSTM"
-      company: "RG Goswami, S Andhavarapu, K Murty"
+      company: "R. G. Goswami, S Andhavarapu, K Murty"
       duration: "arXiv (2020)"
 
 experience2:
