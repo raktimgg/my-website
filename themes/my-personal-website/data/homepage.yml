@@ -105,6 +105,14 @@ experience:
   #   URL: "#"
 
   items:
+    - title: "RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training"
+      company: "R. G. Goswami, P Krishnamurthy, Y. LeCun, F Khorrami"
+      duration: "(Pre-Print) arXiv:2411.17662"
+
+    - title: "OrionNav: Online Planning for Robot Autonomy with Context-Aware LLM and Open-Vocabulary Semantic Scene Graphs"
+      company: "R. G. Goswami, V.N. Devarakonda, A. U. Kaypak, N.Patel, R. Khorrambakht, P Krishnamurthy, F Khorrami"
+      duration: "(Pre-Print) arXiv:2410.06239"
+      
     - title: "FlashMix: Fast Map-Free LiDAR Localization via Feature Mixing and Contrastive-Constrained Accelerated Training"
       company: "R. G. Goswami, N. Patel, P Krishnamurthy, F Khorrami"
       duration: "IEEE/CVF Winter Conference on Applications of Computer Vision - WACV (To Appear in February 2025)"
