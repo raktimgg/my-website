@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Raktim."
   subtitle: "Ph.D. Candidate at NYU"
-  description: "I am a Ph.D. candidate at <a target='_blank' href='https://www.nyu.edu'>New York University's</a> Control/Robotics Research Lab, currently interning as a summer research intern with Yann LeCun's group at Meta-FAIR."
+  description: "I am a Ph.D. candidate at <a target='_blank' href='https://www.nyu.edu'>New York University's</a> Control/Robotics Research Lab, currently interning as a summer research intern in Yann LeCun's group at Meta-FAIR."
   image:
     x: "img/showcase/photo2.jpg"
     _2x: "img/showcase/photo2.jpg"
